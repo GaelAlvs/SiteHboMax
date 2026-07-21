@@ -7,4 +7,6 @@ Tenologias utilizadas:
 - HTML
 - CSS
 
+Site responsivo para celular, tablet e desktop
+
 
